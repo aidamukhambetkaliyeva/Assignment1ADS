@@ -6,9 +6,12 @@ public class Main{
         System.out.println(n%10);
     }
     public static void main(String[] args){
+        System.out.println("1 exersice");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         num(n);
 
     }
 }
+
+
